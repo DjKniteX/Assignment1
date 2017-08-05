@@ -36,10 +36,9 @@ hr {
 }
 
 .img {
-    display: inline-block;
+    float: left;
     margin: 10px;
     padding: 10px;
-    float: left;
 }
 
 .main-content {
